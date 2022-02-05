@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Enchante55
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Git Basics
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
